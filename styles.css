@@ -1,0 +1,10 @@
+.filterWrapper {
+    width: 50px;  
+    display: flex;
+}
+
+.graphWrapper {
+    width: 150px;  
+    display: flex;
+}
+
