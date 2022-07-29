@@ -18,6 +18,7 @@ const config = {
 
   app.visualization.get('TMqRm').then((vis) => vis.show('QV02'))
   app.visualization.get('VbfKRvf').then((vis) => vis.show('QV05'))
+  app.bookmark.apply('2c9ecb93-69d7-4eae-ac31-14708b7c7861')
 
   app.visualization.create(
     'listbox',
